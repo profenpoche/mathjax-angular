@@ -2,7 +2,7 @@
 
 This plugins implements the browser version of [Mathjax v3][1] into [Angular][2]
 
-**_Note_**:This library was generated with [Angular CLI][8] version 14.
+**_Note_**:This library was generated with [Angular CLI][8] version 20.
 
 <div style="text-align:center"><a href="https://nodei.co/npm/mathjax-angular/"><img src="https://nodei.co/npm/mathjax-angular.png?downloads=true&downloadRank=true&stars=true&mini=true"/></a></div>
 
@@ -41,16 +41,16 @@ To do that first install the requirements:
 npm install (or) yarn
 ```
 
-To build, serve and open in dev enviornment:
-
-```
-npm run dev (or) yarn dev
-```
-
-Or To build, serve and open in production enviornment:
+Then either run it in production:
 
 ```
 npm run prod (or) yarn prod
+```
+
+or run it in dev:
+
+```
+npm run dev (or) yarn dev
 ```
 
 ### Usage
